@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on Java Spring Boot Bootcamp on Patika.dev
+ 🔭 I’m currently working on a private project. I will let you know when it's ready :)
  
  📫 I speak Turkish, English, Russian, Kyrgyz, and basic Mandarin
  
