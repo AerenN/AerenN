@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
  🔭 I’m currently working on project ConfesZ. Check my website --> https://confesz.com :)
  
-    You can also download my app:
+ 🤖 You can also download my app:
     - Android : https://play.google.com/store/apps/details?id=com.confesz.confeszapp&hl=en
     - IOS : https://apps.apple.com/us/app/confesz/id6541248711?platform=iphone
  
