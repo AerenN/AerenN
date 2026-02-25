@@ -20,5 +20,3 @@ Here are some ideas to get you started:
  ⚡ I mainly code Python, Java and Typescript.
  
  ✨ My LinkedIn: https://www.linkedin.com/in/aerenbaysal/ 
-
- 🏆 My Android App: https://www.amazon.com/gp/product/B09H38TDN8
